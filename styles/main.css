@@ -21,7 +21,7 @@ body {
     color: #ffffff;
 }
 
-#questions {
+main {
     width: 450px;
     text-align: center;
     transition: opacity 0.4s;
@@ -101,7 +101,7 @@ img.svg {
 
 
 @media only screen and (max-width: 600px) {
-    #questions {
+    main {
         width: 80%;
     }
 }
